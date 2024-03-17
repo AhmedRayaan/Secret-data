@@ -1,0 +1,2 @@
+1. look at all the images provided in the file link and their last latittude coordinate e.g 40.874 in this case its 4. all image files are numbered in the order you need to do them in.
+2. once you have all the numbers enter them into the python code which will give you information on what to do next 
